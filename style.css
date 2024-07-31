@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #ffab35;
+    background-color: #00d5ff;
   }
   .container {
     width: min(60%, 28.12em);
@@ -41,7 +41,7 @@
   }
   button {
     color: #ffffff;
-    background-color: #e06100;
+    background-color: #006a80;
   }
   .output-wrapper {
     width: 100%;
